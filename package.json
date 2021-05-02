@@ -1,0 +1,16 @@
+{
+  "name": "DESKTOP_JAVASCRIPT",
+  "version": "1.0.0",
+  "description": "- [ Desenvolvimento de uma aplicação desktop com Electron, que notifica quando devemos fazer postagem no instagram. ]",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^12.0.1"
+  },
+  "dependencies": {}
+}
